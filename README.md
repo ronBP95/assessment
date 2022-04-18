@@ -1,5 +1,7 @@
 # Salsify Technical Assessment
 
+Note: The API was already updated by the time I had begun the exercise so I manipulated some of the product data to show that updates were made to the API.
+
 <br>
 
 **Reflection**
