@@ -61,7 +61,6 @@ Link: [See the Repo I built for learning here!](https://github.com/ronBP95/ruby_
 <br>
 
 <h2>Function # 1 - Access the FTP server and download the file</h2>
-<hr>
 <br>
 
 I referred to the link below to understand methods that worked with FTP. I eventually came across the getbinaryfile method which allows a user to pull data from a remote file to a local file.
@@ -73,7 +72,6 @@ _Reference Links_
 - https://docs.ruby-lang.org/en/2.0.0/Net/FTP.html#method-i-getbinaryfile
 
 <h2>Function # 2 - Convert the XML format of the product list into JSON format</h2>
-<hr>
 <br>
 
 I initially assumed that there was a way to convert xml to json in Ruby that could be "hardcoded" but I came across a gem that was clean, efficient and easy to use (Gem: "Crack").
@@ -83,7 +81,6 @@ _Reference Links_
 - https://stackoverflow.com/questions/1530324/ruby-xml-to-json-converter
 
 <h2>Function # 3 - Use the Salsify API to update the products with the JSON you create in the above step</h2>
-<hr>
 <br>
 
 Most of my experience working with PUT requests came from form data or button inputs in Express.js but I had access to a few great resources that greatly helped me in Ruby. There were a number of gems that helped in simplifying HTTP requests but I ultimately went with the gem "HTTP" because of the ease of access, great functionality, and clear/readable documentation.
